@@ -1,0 +1,79 @@
+condition1,condition2,frequency
+Fatigue,Short Breath,148
+Coughing,Short Breath,129
+Coughing,Fatigue,128
+Anxiety,Yellow Fingers,125
+Fatigue,Wheezing,122
+Coughing,Wheezing,121
+Alcohol Consumed,Allergy,120
+Alcohol Consumed,Chest Pain,118
+Allergy,Fatigue,113
+Alcohol Consumed,Wheezing,113
+Alcohol Consumed,Coughing,112
+Allergy,Coughing,112
+Peer pressure,Yellow Fingers,111
+Allergy,Chest Pain,111
+Chest Pain,Fatigue,111
+Fatigue,Yellow Fingers,109
+Chest Pain,Short Breath,108
+Short Breath,Smoking,107
+Fatigue,Peer pressure,107
+Allergy,Wheezing,107
+Short Breath,Wheezing,106
+Fatigue,Smoking,106
+Anxiety,Difficulty Swallowing,106
+Difficulty Swallowing,Yellow Fingers,105
+Allergy,Short Breath,105
+Chest Pain,Wheezing,102
+Chest Pain,Coughing,102
+Alcohol Consumed,Fatigue,101
+Difficulty Swallowing,Peer pressure,101
+Short Breath,Yellow Fingers,100
+Chest Pain,Smoking,99
+Alcohol Consumed,Short Breath,96
+Coughing,Yellow Fingers,96
+Anxiety,Smoking,94
+Allergy,Chronic Disease,93
+Allergy,Smoking,92
+Smoking,Yellow Fingers,92
+Anxiety,Peer pressure,91
+Alcohol Consumed,Smoking,90
+Chronic Disease,Yellow Fingers,90
+Wheezing,Yellow Fingers,89
+Chronic Disease,Fatigue,89
+Chronic Disease,Short Breath,89
+Difficulty Swallowing,Fatigue,88
+Coughing,Smoking,88
+Anxiety,Fatigue,87
+Anxiety,Short Breath,87
+Allergy,Yellow Fingers,87
+Smoking,Wheezing,85
+Chest Pain,Yellow Fingers,85
+Difficulty Swallowing,Wheezing,85
+Alcohol Consumed,Chronic Disease,84
+Chest Pain,Chronic Disease,83
+Chest Pain,Difficulty Swallowing,83
+Difficulty Swallowing,Smoking,82
+Chronic Disease,Wheezing,82
+Coughing,Peer pressure,80
+Peer pressure,Smoking,80
+Allergy,Peer pressure,80
+Alcohol Consumed,Difficulty Swallowing,79
+Peer pressure,Short Breath,79
+Difficulty Swallowing,Short Breath,79
+Chronic Disease,Difficulty Swallowing,78
+Peer pressure,Wheezing,78
+Chronic Disease,Peer pressure,78
+Chronic Disease,Coughing,77
+Allergy,Difficulty Swallowing,76
+Alcohol Consumed,Yellow Fingers,74
+Chest Pain,Peer pressure,74
+Anxiety,Chest Pain,74
+Anxiety,Chronic Disease,74
+Allergy,Anxiety,73
+Chronic Disease,Smoking,72
+Coughing,Difficulty Swallowing,72
+Anxiety,Wheezing,71
+Alcohol Consumed,Peer pressure,71
+Anxiety,Coughing,70
+Alcohol Consumed,Anxiety,69
